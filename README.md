@@ -2,6 +2,14 @@
 
 Bem-vindo à nossa Landing Page da atividade de Mentoria de Carreira, onde você pode conhecer melhor nossos alunos e suas habilidades profissionais. Abaixo estão os perfis dos alunos participantes:
 
+## Vídeo da Aplicação
+
+Assista ao nosso vídeo introdutório para saber mais sobre a atividade de Mentoria de Carreira e como nossos alunos estão se preparando para o sucesso profissional.
+
+
+https://github.com/Thamireslopescz/Mentoria-de-Carreira/assets/100656019/f2053fd5-62f5-49f7-a674-f05faf0cdc56
+
+
 ## Alunos
 
 ### Andrea Noer
@@ -48,4 +56,4 @@ Esperamos que você aproveite esta oportunidade para conhecer nossos alunos e su
 
 ---
 
-Este projeto foi desenvolvido pelos integrantes do grupo como parte da atividade da turma 14 edição da Growdev.
+Este projeto foi desenvolvido pelo grupo como parte da atividade da turma 14° Dev Full Stack.

@@ -7,7 +7,8 @@ Bem-vindo à nossa Landing Page da atividade de Mentoria de Carreira, onde você
 Assista ao nosso vídeo introdutório para saber mais sobre a atividade de Mentoria de Carreira e como nossos alunos estão se preparando para o sucesso profissional.
 
 
-https://github.com/Thamireslopescz/Mentoria-de-Carreira/assets/100656019/f2053fd5-62f5-49f7-a674-f05faf0cdc56
+
+https://github.com/Thamireslopescz/Mentoria-de-Carreira/assets/100656019/e85f83ab-47b3-40e6-8cc8-cceed90a61d2
 
 
 ## Alunos

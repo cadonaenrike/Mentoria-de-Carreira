@@ -22,6 +22,7 @@ a:hover {
 }
 
 body {
+  background-image: url(/public/imagens/FundoHome/Selecione.jpg);
   margin: 0;
   padding: 0;
 }

@@ -27,10 +27,10 @@ function App() {
         padding: "1rem",
         display: "flex",
         alignItems: "center",
-        justifyContent: "flex-start", // Alinhar todo o conteúdo à esquerda
+        justifyContent: "flex-start",
         height: "100vh",
-        maxWidth: "100%", // Definir largura máxima
-        overflowX: "hidden", // Evitar barras de rolagem horizontais
+        maxWidth: "100%",
+        overflowX: "hidden",
       }}
     >
       {showAbout ? (

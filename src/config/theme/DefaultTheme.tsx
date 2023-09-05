@@ -1,6 +1,6 @@
 const theme = {
   colorsPerson: {
-    everton: "#f90d2e", // Red
+    everton: "#ff0022", // Red
     andrea: "#0099CC", // Blue
     luciano: "#1ac235", // Green
     matheus: "#590efa", // Purple
